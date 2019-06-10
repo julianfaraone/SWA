@@ -1,0 +1,25 @@
+Preparing directory train_log
+Using model resnet
+Loading dataset imagenet from ../../QPyTorch/examples/IBM8/data/imagenet12/
+1102766
+50000
+=> using pre-trained model 'resnet18'
+SWA training
+accuracy
+69.758
+loss
+1.2473143196105958
+----  --------  ---------  --------  ---------  --------  -------------  ------------  ---------
+  ep        lr    tr_loss    tr_acc    te_loss    te_acc  swa_te_loss    swa_te_acc         time
+----  --------  ---------  --------  ---------  --------  -------------  ------------  ---------
+   1    0.0010     3.7283   29.0872     7.9898    1.0400                               8239.9331
+accuracy
+1.04
+loss
+7.989803849182129
+   2    0.0010     2.3660   49.9920                                                    7442.1253
+accuracy
+0.786
+loss
+8.386229316253662
+   3    0.0000     2.1778   54.0928                                                    7941.5164

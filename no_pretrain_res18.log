@@ -1,0 +1,27 @@
+  warnings.warn(str(msg))
+   3    0.0005     5.2465    7.0791                                                    7400.7144
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   4    0.0129     4.7714   11.0196                                                    7667.0753
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   5    0.0376     4.5991   12.2068     9.0074    0.3640         8.6796        0.3720  15336.7116
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   6    0.0500     4.6482   11.7212                                                    7339.5217
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   7    0.0500     4.6212   11.9587                                                    7297.2007
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   8    0.0500     4.6069   12.1929                                                    7151.2156
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+   9    0.0500     4.6049   12.2098                                                    7429.3925
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+/home/ubuntu/.local/lib/python3.5/site-packages/PIL/TiffImagePlugin.py:785: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0.
+  warnings.warn(str(msg))
+  10    0.0500     4.5990   12.2508     8.4676    0.2480         8.8058        0.3980  15943.9208
